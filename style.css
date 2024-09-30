@@ -1,0 +1,50 @@
+h1 {
+    color: purple;
+    font-family:'Courier New', Courier, monospace
+}
+* {
+    color: red;
+}
+html{
+    background-color: rgb(239, 239, 147);
+}
+img {
+    height: 200px;
+   width: 300px; 
+   border: 2px dashed black;
+}
+ol {
+    font-size: 30px;
+}
+ol:hover{
+    background-color: black;
+}
+h3{
+    font-size: 35px;
+}
+h2{
+    font-size: 35px;
+}
+ul {
+    font-size: 25px;
+}
+h4 {
+    font-size: 35px;
+}
+h5 {
+    font-size: 35px;
+}
+h6 {
+    font-size: 35px;
+}
+a {
+    font-size: 40px;
+    color:darkgreen;
+}
+p:hover{
+    background-color: white;
+
+}
+p {
+    padding-left: 38%;
+}
